@@ -21,6 +21,10 @@ Deploys automatically to GitHub Pages on every push to `main`, via `.github/work
 - Real persistence (a database) so notes/tasks aren't stuck to one browser
 - Possibly rebuilt/extended via Lovable once the shape of the thing is clearer
 
+## Expert Desk
+
+A second page lives at `/expert-desk/` — a placeholder dashboard with tab navigation (Dashboard / Experts / Assignments / Notes), no content wired up yet. This was going to be its own repo, but repo creation isn't available through this GitHub connection, so it lives here as a subfolder instead. Move it out to its own repo later if it grows into a separate project.
+
 ## Development
 
-This repo is private and used for personal experimentation.
+This repo is currently **public** on GitHub — fix that in Settings → General → Danger Zone → Change visibility, if it should be private.
